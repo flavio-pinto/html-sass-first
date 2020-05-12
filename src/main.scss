@@ -1,0 +1,17 @@
+$primary: coral;
+$secondary: royalblue;
+$mainfont: 'Arial, sans-serif';
+
+body {
+    background: $secondary;
+    font-family: $mainfont;
+}
+
+h1 {
+    color: red;
+}
+
+h2,
+h3 {
+    color: $primary;
+}
